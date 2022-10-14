@@ -1,0 +1,5 @@
+applications:
+- name: GigyaPR
+  path: .
+  buildpack: nodejs_buildpack
+  memory: 128M
